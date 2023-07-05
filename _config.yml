@@ -1,0 +1,58 @@
+author:
+  email: null
+  name: An Author
+  twitter: null
+  url: null
+baseurl: /TestReaduxDev20230705
+collections:
+  annotations:
+    output: true
+    permalink: /annotations/:path/
+  volume_pages:
+    output: true
+    permalink: /pages/:path/
+defaults:
+- scope:
+    path: ''
+    type: volume_pages
+  values:
+    deep_zoom: true
+    extra_js:
+    - openseadragon.min.js
+    - openseadragon-svg-overlay.js
+    - text-annotations.js
+    - viewer.js
+    layout: volume_page
+    short_label: p.
+- scope:
+    path: ''
+    type: annotations
+  values:
+    layout: annotation
+description: An annotated digital edition created with <a href="http://readux.library.emory.edu/">Readux</a>
+gems:
+- jekyll-sitemap
+homepage_image: https://iip.readux.io/iiif/2/D12498_00001.tif/full/full/0/default.jpg
+image_size:
+  page:
+    height: 2390
+    width: 879
+permalink: pretty
+publication_info:
+  date: '2023'
+  editors: []
+  title: "\u0F56\u0F66\u0F90\u0F63\u0F0B\u0F56\u0F5F\u0F44\u0F0B\u0F62\u0F92\u0FB1\
+    \u0F53\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F60\u0F55\u0FB2\u0F7A\u0F44\u0F0B\u0F56\
+    \u0F0D .-\u0F56\u0FB2\u0F72\u0F66\u0F0B\u0F58\u0F0D"
+show_annotation_author: true
+source_info:
+  title: "\u0F56\u0F66\u0F90\u0F63\u0F0B\u0F56\u0F5F\u0F44\u0F0B\u0F62\u0F92\u0FB1\
+    \u0F53\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F60\u0F55\u0FB2\u0F7A\u0F44\u0F0B\u0F56\
+    \u0F0D .-\u0F56\u0FB2\u0F72\u0F66\u0F0B\u0F58\u0F0D"
+  via_readux: true
+tagline: an annotated digital edition
+title: "\u0F56\u0F66\u0F90\u0F63\u0F0B\u0F56\u0F5F\u0F44\u0F0B\u0F62\u0F92\u0FB1\u0F53\
+  \u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F60\u0F55\u0FB2\u0F7A\u0F44\u0F0B\u0F56\u0F0D .-\u0F56\
+  \u0FB2\u0F72\u0F66\u0F0B\u0F58\u0F0D"
+url: https://jcmundy.github.io
+version: 0.7

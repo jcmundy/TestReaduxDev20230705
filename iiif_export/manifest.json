@@ -1,0 +1,1395 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/manifest",
+    "@type": "sc:Manifest",
+    "label": "\u0f56\u0f66\u0f90\u0f63\u0f0b\u0f56\u0f5f\u0f44\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f60\u0f55\u0fb2\u0f7a\u0f44\u0f0b\u0f56\u0f0d .-\u0f56\u0fb2\u0f72\u0f66\u0f0b\u0f58\u0f0d",
+    "metadata": [
+        {
+            "label": "Author",
+            "value": ""
+        },
+        {
+            "label": "Publisher",
+            "value": ""
+        },
+        {
+            "label": "Place of Publication",
+            "value": ""
+        },
+        {
+            "label": "Publication Date",
+            "value": ""
+        },
+        {
+            "label": "Notes",
+            "value": null
+        },
+        {
+            "label": "Record Created",
+            "value": "2022-12-15T17:14:14.388Z"
+        },
+        {
+            "label": "Edition Type",
+            "value": "Readux IIIF Exported Edition"
+        },
+        {
+            "label": "About Readux",
+            "value": "https://readux.ecdsdev.org/about/"
+        },
+        {
+            "label": "Annotators",
+            "value": "Joannas Github"
+        },
+        {
+            "label": "Export Date",
+            "value": "2023-07-05T15:18:39.396"
+        }
+    ],
+    "description": "S.no: 48<br/>Section: \u0f45\u0f0d8:13<br/>number of pages: 31<br/>Unit 1",
+    "related": [
+        "https://readux.ecdsdev.org/volume/D12498/page/all"
+    ],
+    "within": [
+        "https://readux.ecdsdev.org/collection/tibet-test"
+    ],
+    "thumbnail": {
+        "@id": "https://iip.readux.io/iiif/2/D12498_00001.tif/full/600,/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iip.readux.io/iiif/2/D12498_00001.tif",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+    },
+    "attribution": "Emory University Libraries",
+    "logo": "/media/logos/lits-logo-web.png",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "sequences": [
+        {
+            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "startCanvas": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00001.tif",
+            "canvases": [
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00001.tif",
+                    "@type": "sc:Canvas",
+                    "label": "1",
+                    "height": 879,
+                    "width": 2390,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00001.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 879,
+                                "width": 2390,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00001.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00001.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00001.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00001.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        },
+                        {
+                            "label": "Annotations by jcmundy39",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/D12498/list/D12498_00001.tif"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00002.tif",
+                    "@type": "sc:Canvas",
+                    "label": "2",
+                    "height": 1797,
+                    "width": 2439,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00002.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00002.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1797,
+                                "width": 2439,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00002.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00002.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00002.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00002.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00003.tif",
+                    "@type": "sc:Canvas",
+                    "label": "3",
+                    "height": 1792,
+                    "width": 2439,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00003.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00003.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1792,
+                                "width": 2439,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00003.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00003.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00003.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00003.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00004.tif",
+                    "@type": "sc:Canvas",
+                    "label": "4",
+                    "height": 1814,
+                    "width": 2510,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00004.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00004.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1814,
+                                "width": 2510,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00004.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00004.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00004.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00004.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00005.tif",
+                    "@type": "sc:Canvas",
+                    "label": "5",
+                    "height": 1842,
+                    "width": 2493,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00005.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00005.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1842,
+                                "width": 2493,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00005.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00005.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00005.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00005.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00006.tif",
+                    "@type": "sc:Canvas",
+                    "label": "6",
+                    "height": 1812,
+                    "width": 2484,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00006.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00006.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1812,
+                                "width": 2484,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00006.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00006.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00006.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00006.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00007.tif",
+                    "@type": "sc:Canvas",
+                    "label": "7",
+                    "height": 1830,
+                    "width": 2489,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00007.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00007.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1830,
+                                "width": 2489,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00007.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00007.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00007.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00007.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00008.tif",
+                    "@type": "sc:Canvas",
+                    "label": "8",
+                    "height": 1773,
+                    "width": 2465,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00008.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00008.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1773,
+                                "width": 2465,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00008.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00008.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00008.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00008.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00009.tif",
+                    "@type": "sc:Canvas",
+                    "label": "9",
+                    "height": 1803,
+                    "width": 2469,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00009.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00009.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1803,
+                                "width": 2469,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00009.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00009.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00009.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00009.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00010.tif",
+                    "@type": "sc:Canvas",
+                    "label": "10",
+                    "height": 1863,
+                    "width": 2446,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00010.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00010.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1863,
+                                "width": 2446,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00010.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00010.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00010.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00010.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00011.tif",
+                    "@type": "sc:Canvas",
+                    "label": "11",
+                    "height": 1887,
+                    "width": 2435,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00011.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00011.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1887,
+                                "width": 2435,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00011.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00011.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00011.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00011.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00012.tif",
+                    "@type": "sc:Canvas",
+                    "label": "12",
+                    "height": 1893,
+                    "width": 2467,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00012.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00012.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1893,
+                                "width": 2467,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00012.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00012.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00012.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00012.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00013.tif",
+                    "@type": "sc:Canvas",
+                    "label": "13",
+                    "height": 1923,
+                    "width": 2469,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00013.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00013.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1923,
+                                "width": 2469,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00013.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00013.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00013.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00013.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00014.tif",
+                    "@type": "sc:Canvas",
+                    "label": "14",
+                    "height": 1902,
+                    "width": 2475,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00014.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00014.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1902,
+                                "width": 2475,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00014.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00014.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00014.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00014.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00015.tif",
+                    "@type": "sc:Canvas",
+                    "label": "15",
+                    "height": 1911,
+                    "width": 2486,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00015.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00015.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1911,
+                                "width": 2486,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00015.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00015.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00015.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00015.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00016.tif",
+                    "@type": "sc:Canvas",
+                    "label": "16",
+                    "height": 1927,
+                    "width": 2496,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00016.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00016.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1927,
+                                "width": 2496,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00016.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00016.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00016.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00016.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00017.tif",
+                    "@type": "sc:Canvas",
+                    "label": "17",
+                    "height": 1871,
+                    "width": 2471,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00017.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00017.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1871,
+                                "width": 2471,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00017.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00017.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00017.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00017.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00018.tif",
+                    "@type": "sc:Canvas",
+                    "label": "18",
+                    "height": 1944,
+                    "width": 2469,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00018.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00018.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1944,
+                                "width": 2469,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00018.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00018.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00018.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00018.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00019.tif",
+                    "@type": "sc:Canvas",
+                    "label": "19",
+                    "height": 1914,
+                    "width": 2505,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00019.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00019.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1914,
+                                "width": 2505,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00019.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00019.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00019.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00019.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00020.tif",
+                    "@type": "sc:Canvas",
+                    "label": "20",
+                    "height": 1912,
+                    "width": 2496,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00020.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00020.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1912,
+                                "width": 2496,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00020.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00020.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00020.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00020.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00021.tif",
+                    "@type": "sc:Canvas",
+                    "label": "21",
+                    "height": 1938,
+                    "width": 2512,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00021.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00021.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1938,
+                                "width": 2512,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00021.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00021.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00021.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00021.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00022.tif",
+                    "@type": "sc:Canvas",
+                    "label": "22",
+                    "height": 1830,
+                    "width": 2488,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00022.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00022.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1830,
+                                "width": 2488,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00022.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00022.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00022.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00022.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00023.tif",
+                    "@type": "sc:Canvas",
+                    "label": "23",
+                    "height": 1870,
+                    "width": 2528,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00023.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00023.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1870,
+                                "width": 2528,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00023.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00023.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00023.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00023.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00024.tif",
+                    "@type": "sc:Canvas",
+                    "label": "24",
+                    "height": 1842,
+                    "width": 2525,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00024.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00024.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1842,
+                                "width": 2525,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00024.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00024.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00024.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00024.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00025.tif",
+                    "@type": "sc:Canvas",
+                    "label": "25",
+                    "height": 1862,
+                    "width": 2494,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00025.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00025.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1862,
+                                "width": 2494,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00025.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00025.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00025.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00025.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00026.tif",
+                    "@type": "sc:Canvas",
+                    "label": "26",
+                    "height": 1882,
+                    "width": 2490,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00026.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00026.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1882,
+                                "width": 2490,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00026.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00026.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00026.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00026.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00027.tif",
+                    "@type": "sc:Canvas",
+                    "label": "27",
+                    "height": 1894,
+                    "width": 2504,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00027.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00027.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1894,
+                                "width": 2504,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00027.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00027.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00027.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00027.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00028.tif",
+                    "@type": "sc:Canvas",
+                    "label": "28",
+                    "height": 1840,
+                    "width": 2463,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00028.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00028.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1840,
+                                "width": 2463,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00028.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00028.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00028.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00028.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00029.tif",
+                    "@type": "sc:Canvas",
+                    "label": "29",
+                    "height": 1865,
+                    "width": 2460,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00029.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00029.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1865,
+                                "width": 2460,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00029.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00029.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00029.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00029.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00030.tif",
+                    "@type": "sc:Canvas",
+                    "label": "30",
+                    "height": 1863,
+                    "width": 2502,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00030.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00030.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1863,
+                                "width": 2502,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00030.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00030.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00030.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00030.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00031.tif",
+                    "@type": "sc:Canvas",
+                    "label": "31",
+                    "height": 1812,
+                    "width": 2478,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00031.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00031.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1812,
+                                "width": 2478,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00031.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00031.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00031.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00031.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00032.tif",
+                    "@type": "sc:Canvas",
+                    "label": "32",
+                    "height": 921,
+                    "width": 2391,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/D12498/annotation/D12498_00032.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iip.readux.io/iiif/2/D12498_00032.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 921,
+                                "width": 2391,
+                                "service": {
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iip.readux.io/iiif/2/D12498_00032.tif",
+                                    "profile": "https://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://readux.ecdsdev.org/iiif/D12498/canvas/D12498_00032.tif"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iip.readux.io/iiif/2/D12498_00032.tif/full/200,/0/default.jpg",
+                        "height": 250,
+                        "width": 200
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/D12498/list/D12498_00032.tif",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
